@@ -27,7 +27,7 @@ function increment(array: Array<number>): Array<number> {
 
 
 
-If you want to navigate to the code, view the [sandbox](https://codesandbox.io/s/fizzbuzz-yfv965)
+If you want to navigate to the code, view the [sandbox](https://codesandbox.io/s/increment-array-yblr5d)
 
 In first, I have to choose the best language. But, with a view to achieving the [Frontend Test](https://github.com/fulll/developers/tree/master/Frontend), I prefer to work with [Typescript](https://www.typescriptlang.org).
 
